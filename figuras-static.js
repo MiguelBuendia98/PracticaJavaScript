@@ -1,4 +1,4 @@
-// Codigo del cuadrado
+// Codigo del cuadrado estatico
 console.group("Cuadrados");
 
 const ladoCuadrado = 5;
@@ -12,6 +12,7 @@ console.log("El area del cuadrado es: " + areaCuadrado + " cm^2");
 
 console.groupEnd();
 // --------------------------------------------------------------------------
+
 
 // Codigo del triangulo
 console.group("Triangulos");
@@ -35,6 +36,7 @@ console.log("El area del triangulo es: " + areaTriangulo + " cm^3");
 
 console.groupEnd();
 // --------------------------------------------------------------------------
+
 
 // Codigo del circulo
 console.group("Circulos");
